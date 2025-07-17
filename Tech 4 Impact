@@ -1,0 +1,137 @@
+======================================================================================
+ == An AI- powered personalized E-Commerce platform with real time 3D product viewer :
+
+=====================================================================================
+
+
+
+ Definition of key concepts: 
+
+   AI: Artificial Intelligence (AI) refers to the ability of computer systems to perform 
+   tasks that typically require human intelligence,such as learning, problem-solving, 
+   and decision-making.
+
+
+   Personalization: Personalization is the process of tailoring products, services,
+   or experiences to individual customer preferences and needs,
+   based on data collected about their behavior, demographics, and interests. 
+
+
+   Real time 3D product viewer: A real-time 3D product viewer allows users to interact with and 
+   explore a 3D model of a product in a dynamic, navigable way, 
+   offering a more immersive and engaging experience than static 2D images or videos.
+
+
+
+1.THE ROLE OF AL:
+
+
+
+
+         *Collecting new user information so as to be able to personalize their experience.
+
+         *It helps the user navigate through our website.
+
+         *AI act as a question and answer board.
+
+
+
+
+2.HOW TO USE AI TO PERSONALIZE OUR WEBSITE:
+
+
+
+        *Previous research
+
+        *Purchases
+
+
+3.TECHNICAL TOOLS:
+
+
+
+    i.Tool for tracking user data:
+
+          * Analytics and Data collection:
+           -Google Analytics 4(GA4) ,tracking user interactions
+
+    
+    ii.Tools for personalized recommendations(FYP):
+
+
+          * Recommendation Engines:
+            -Amazon personalized(AWS) ,it manages AI service for products recommendations.
+
+
+    iii.Tools for AI-powered Q and (Chatbot and Search):
+    
+
+          * Prebuilt chatbot solutions: 
+           -Zendesk answer bot,AI chatbot for customer support
+
+
+4.Real-time 3D Product Viewer:
+
+
+
+
+Role Of The 3D Model in Our Website:
+
+
+        i. It helps to increase trust of clients:
+
+          With are 3D model product , clients are able to view their products
+           from just as in real life and from several angles.
+           This helps to increase their trust in our services(Products).
+
+
+
+
+        ii. Reduce reture rate:
+
+          This is because are product are been displayed in 3D therefore the
+           clients won't send back products which they bought
+
+  you can use the following tools to create and integrate 3D images
+
+
+
+           * For creating 3D models:
+              -High-quality 3D product models, optimized for web.
+
+           * For integrating a real-time 3D model viewer:
+             -Three.js
+             -Babylon.js
+             -model-viewer       
+  
+
+
+
+
+
+
+
+
+
+
+                                           QUESTIONS
+
+
+
+Question 1: Are we to build an E-commerce Web App or Mobile Application?
+
+
+Question 2: Are we to build the complete solution or just the pages which we need to showcase our project
+
+Question3: Must our AI be integrated with other APIs like Gemini,Deepseek so as to have general knowledge or just the materials from our E-comments site such members,CEO, products etc
+
+
+Question 4: What is the deadline for our project to be handed
+
+
+Question 5: what are the best and most reliable languages to use when creating a website backend 
+
+Question 6: in our AI generated e-commerce website and 3D product viewer how can we 
+encrypt our website with security major
+
+
